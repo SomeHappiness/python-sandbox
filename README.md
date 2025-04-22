@@ -31,7 +31,7 @@ Docker Code Sandbox MCP是一个安全、高效的代码执行服务，允许在
 
 ```bash
 # 克隆仓库
-git clone https://github.com/yourusername/docker-code-sandbox-mcp.git
+git clone https://github.com/SomeHappiness/python-sandbox.git
 cd docker-code-sandbox-mcp
 
 # 安装依赖
