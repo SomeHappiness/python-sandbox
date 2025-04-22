@@ -1,0 +1,13 @@
+[project]
+name = "sandbox-server"
+version = "0.1.0"
+description = "sandbox mcp server"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "bs4>=0.0.2",
+    "docker>=7.1.0",
+    "fastmcp>=2.2.1",
+    "httpx>=0.28.1",
+    "mcp[cli]>=1.6.0",
+]
